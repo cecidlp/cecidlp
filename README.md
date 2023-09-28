@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+✨ Welcome to my Github!✨
+I'm originally from Buenos Aires, Argentina, but I've been living in Barcelona since 2016. My journey has been quite the rollercoaster ride, filled with twists and turns. I hold a photography degree, but a few years ago, I made a career shift to frontend development. Since then, I've been on a journey of continuous learning and skill-building. I received a scholarship to study frontend development at Ironhack, where I developed my web development skills. Currently, I'm pursuing a programming scholarship at 42 Barcelona, known for its innovative peer-to-peer teaching method. Additionally, I've been taking one-on-one classes with a private tutor since January, further enhancing my frontend development skills.
+I specialize in Frontend Development, with experience in HTML, CSS, React, and JavaScript. 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+
 <!--
 **cecidlp/cecidlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
